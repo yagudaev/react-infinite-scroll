@@ -1,0 +1,23 @@
+{
+  "name": "react-infinite-scroll",
+  "version": "0.1.5",
+  "homepage": "https://github.com/yagudaev/react-infinite-scroll",
+  "authors": [
+    "guillaumervls"
+  ],
+  "description": "React infinite scroll component",
+  "main": "dist/react-infinite-scroll.min.js",
+  "keywords": [
+    "react",
+    "infinite",
+    "scroll"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
